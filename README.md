@@ -89,7 +89,6 @@ void Diposite(int pass){
 
 int main(){
     
-    // int total_Ac[5] = {1250,1542,13625,4724,468145};
     
     printf("\n_____WELCOME TO INDIAN BANK_______\n");
         
